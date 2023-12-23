@@ -1,3 +1,3 @@
 print("Salam")
 
-print("Ahmad")
+kfdj,hg
